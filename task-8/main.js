@@ -1,4 +1,4 @@
-let num1 = 723;
+let num1 = 11;
 let num2 = 53;
 
 if (num1 < num2){
