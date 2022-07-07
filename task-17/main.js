@@ -1,4 +1,4 @@
-let num = 0;
+let num = 10;
 
 let r = num%7;
 
