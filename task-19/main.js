@@ -1,6 +1,6 @@
-let science = 100;
-let maths = 100;
-let english = 100;
+let science = 40;
+let maths = 83;
+let english = 90;
 let computer = 100;
 
 let grade;
