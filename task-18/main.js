@@ -1,6 +1,6 @@
-let num1 = 22;
-let num2 = 20;
-let num3 = 9;
+let num1 = 25;
+let num2 = 90;
+let num3 = 73;
 
 let l;
 let m;

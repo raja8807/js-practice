@@ -1,4 +1,4 @@
-let num = 0;
+let num = prompt("Enter a Value");
 sum = 0;
 
 while(num != 0){

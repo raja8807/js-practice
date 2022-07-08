@@ -1,7 +1,7 @@
-let num1 = 2;
-let num2 = 4;
-let num3 = 6;
-let num4 = 7;
+let num1 = 75;
+let num2 = 61;
+let num3 = 97;
+let num4 = 27;
 
 let l;
 let m;
